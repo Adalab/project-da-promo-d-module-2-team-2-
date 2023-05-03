@@ -8,5 +8,11 @@ Para ello trabajamos basándonos en una encuesta que limpiamos y unimos usando P
   - proponer futuras investigaciones a la clienta para seguir optimizando su bootcamp
   
   
-
+|      | Carpetas |
+|-----:|---------------|
+|     1|   Datos       |
+|     2|   Encuesta    |
+|     3|   Imágenes    |
+|     4|   Notebooks   |
+|     5|   SRC         |
 
